@@ -1,0 +1,1 @@
+MsgBox"jest w skrypcie blad powodojac crash bota"
